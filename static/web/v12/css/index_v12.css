@@ -29,7 +29,7 @@ p {
 }
 
 #main {
-    background-image: url('../../v11/img/first_screen_bg.png');
+    background-image: url('https://gcore.jsdelivr.net/gh/dawang138/muen@main/static/web/v11/img/first_screen_bg.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
